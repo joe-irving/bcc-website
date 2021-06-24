@@ -1,0 +1,13 @@
+{% capture params %}
+{
+  "zoom" : 17,
+  "center" : [{{site.map.lat}}  ,{{site.map.lng}}],
+  "divId" : "Rebellion-Map",
+  "providerBasemap": "{{site.map.basemap | default: "OpenStreetMap.Mapnik"}}"
+}
+{% endcapture %}
+{% leaflet_map {{params}} %}
+      {% leaflet_marker { "latitude" : {{site.map.lat}},
+                          "longitude" : {{site.map.lng}},
+                          "popupContent" : "{{ site.title }}" } %}
+{% endleaflet_map %}
