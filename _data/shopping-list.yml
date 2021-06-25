@@ -1,3 +1,7 @@
+---
+- thing: You!
+- thing: Your labour
+- thing: Your time
 - thing: Pallets
   info: As many as possible
 - thing: Chairs
@@ -7,9 +11,6 @@
 - thing: Compost bins
 - thing: Plants
 - thing: Veg
-- thing: You!
-- thing: Your time
-- thing: Your labour
 - thing: Friends
 - thing: Ideas
 - thing: Music makers
