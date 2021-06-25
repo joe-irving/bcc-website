@@ -17,7 +17,7 @@ That is why on 19th June 2021 a group of us set about cleaning up the site and m
 it a space for the community again. If the council won't then we have to
 take matters into our own hands!
 
-Now is the chance for us **all** to build something amazing for your.
+Now is the chance for us **all** to build something amazing.
 
 Sadly, just 7 days after our clean up and rebuild started,
 [Persimmon Homes](https://www.persimmonhomes.com/) violently and illegally
