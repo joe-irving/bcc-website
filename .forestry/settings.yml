@@ -5,6 +5,10 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: document
+  path: _data/shopping-list.yml
+  label: Shopping list
+  match: "**/*"
+- type: document
   path: _config.yml
   label: Config
 - type: document
