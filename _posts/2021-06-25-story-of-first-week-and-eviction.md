@@ -1,6 +1,7 @@
 ---
 layout: post
 authors: Patrick
+extract: The story of how the community centre came about and today's eviction
 ---
 
 A few months ago Wirral Council contacted me to tell me that the site where boats had been kept for a hundred years was being turned into a car park, and I had a few weeks to move my boat or it would be destroyed and I would be charged for the costs. After much wrangling I found a farmer in York (where I live) willing to take it onto his field for £100 a month, but the day before it was due to move and the day before baillifs were coming to remove the boat he told me his wife had put her foot down and he couldn't take it. I'd already paid a guy to tow it to York, so I was naturally in a pickle.
