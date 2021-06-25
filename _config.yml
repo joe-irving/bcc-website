@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Transforming the Barbican brownfield site into a shared
   community space for the People of York.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://barbican.cf" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://barbican.earth" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -36,6 +36,9 @@ logo: /uploads/main-sign.png
 brand_color: "#2ed70a"
 accent_color:   "#f941dc"
 
+collections:
+  posts:
+    permalink: /news/:title/
 
 
 map:
