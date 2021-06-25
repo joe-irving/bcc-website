@@ -4,6 +4,7 @@
 
 layout: home
 top_image: /uploads/barbican-comunity-center.jpeg
+image: /uploads/barbican-comunity-center.jpeg
 jump:
   target: about
   text: Find out more
