@@ -14,6 +14,8 @@ image: /uploads/citzens-of-earth.jpg
 
 {% include map.html %}
 
+**[Facebook Event](https://fb.me/e/16KgvtN7s)**
+
 Last week the People of York occupied 2.2 acres of derelict brownfield land in the heart of our city and opened the Barbican Community Centre. We are turning it into a Community allotment, a pay-as-you-feel food waste cafe, an affordable eco-housing site, a Community library, an arts and events space, and a People's Assembly. It had been neglected for 15 years by Persimmon Homes, who want to sell it to develop more student apartments for £20 million.
 At 6:30am Friday we were illegally and violently evicted by Court Enforcement Specialists Limited at the direction of Persimmon Homes.
 
