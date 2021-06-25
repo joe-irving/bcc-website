@@ -1,5 +1,6 @@
+{% assign shopping = site.data.shopping-list%}
 <ul>
-  {% for item in site.data.shopping-list %}
-    <li>{{item}}</li>
+  {% for item in shopping %}
+    <li><strong>{{item.thing}}</strong>{% if item.info and item.info != '' %}: {{ item.info }}.{% endif %}</li>
   {% endfor %}
 </ul>

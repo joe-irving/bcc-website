@@ -25,12 +25,12 @@
     <div class="text half">
       <div class="content">
         {{ include.block.text | markdownify | liquify }}
-      </div>
       {% for button in buttons %}
         {% if forloop.first %}<div class="Rebellion-Flex-Line">{% endif %}
           <a href="{{ button.target }}"><span class="Rebellion-Button">{{button.text}}</span></a>
         {% if forloop.last  %}</div>{% endif %}
       {% endfor %}
+      </div>
     </div>
   {% endif %}
 

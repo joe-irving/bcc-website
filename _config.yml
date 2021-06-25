@@ -30,8 +30,13 @@ github_username:  jekyll
 
 # Build settings
 theme: jekyll-rebellion
-
+permalink: pretty
 donate: https://www.gofundme.com/f/barbican-community-centre
+logo: /uploads/main-sign.png
+brand_color: "#2ed70a"
+accent_color:   "#f941dc"
+
+
 
 map:
   lat:  53.953100
