@@ -42,7 +42,6 @@
     }
   }
   #Rebellion-Map{
-    width: 100%;
     height: $block-height;
   }
   &.half:nth-of-type(even){
@@ -51,11 +50,13 @@
 
 }
 @media only screen and (min-width: $half-width * 2) {
-  .Rebellion-Block.half{
-    display: flex;
-    > .half{
-      width: 50%;
-      min-height: $block-height;
+  .Rebellion-Block{
+    &.half{
+      display: flex;
+      > .half{
+        width: 50%;
+        min-height: $block-height;
+      }
     }
   }
 }
