@@ -45,6 +45,18 @@ collections:
   posts:
     permalink: /news/:title/
 
+defaults:
+  -
+    scope:
+      path: "google1c899b51019de383.html"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path: "admin/index.html"
+    values:
+      sitemap:         false
+
 
 map:
   lat:  53.953100
@@ -54,6 +66,7 @@ plugins:
   - jekyll-feed
   - jekyll-liquify
   - jekyll-leaflet
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
