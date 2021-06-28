@@ -2,6 +2,7 @@
 layout: post
 title: "Press Release: Save Barbican Community Centre"
 summary: Today, we the People of York are gathering outside the Barbican Community Centre to demand that this land be returned to the people.
+image: /uploads/fireplace.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3idsHM9DQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## What we are doing and why?
