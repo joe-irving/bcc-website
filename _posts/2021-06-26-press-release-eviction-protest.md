@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Press Release: Save Barbican Community Centre'
-summary: Today, we the People of York are gathering outside the Barbican Community
+summary: Yesterday, we the People of York are gathering outside the Barbican Community
   Centre to demand that this land be returned to the people.
 image: "/uploads/fireplace.jpg"
 
