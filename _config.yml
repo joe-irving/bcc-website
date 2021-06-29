@@ -36,7 +36,7 @@ logo: /uploads/bcc-logo.svg
 logo_light: /uploads/bcc-logo-light.svg
 logo_square: /uploads/logo-square.png
 brand_color: "#fff035"
-accent_color:   "#ffffff"
+accent_color:   "rgb(217, 217, 217)"
 instagram: https://www.instagram.com/barbican_community_centre/
 twitter: https://twitter.com/barbican_cc
 facebook: https://www.facebook.com/Barbican-Community-Centre-105558228443405/
