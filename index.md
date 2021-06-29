@@ -1,6 +1,6 @@
 ---
 layout: home
-top_image: "/uploads/barbican-comunity-center.jpeg"
+top_image: "/uploads/Squat post-eviction.jpg"
 image: "/uploads/barbican-comunity-center.jpeg"
 jump:
   target: about
@@ -13,7 +13,7 @@ blocks:
   text: |-
     # Petition
 
-    Please sign the petition for the council to:
+    Please sign the petition for the council to bring the Barbican brownfield site back into council ownership through a Compulsory Purchase Order.
   buttons:
   - text: Sign the petition
     target: http://chng.it/DD6GPNVCHb
