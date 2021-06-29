@@ -33,3 +33,5 @@ fields:
     maxSize: 64
   label: Social media image
   default: "/assets/images/og-preview.png"
+pages:
+- index.md
