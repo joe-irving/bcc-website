@@ -12,6 +12,8 @@ map:
   lng: 
 
 ---
-Join us for our first People's Assembly to decide the future of the Barbican Community Centre! This will be a family friendly and Covid-Safe event, so bring your kids, wear a mask, and maintain social distancing. We will be meeting outside of the coop on Paragon Street.
+We are hosting a people's assembly, open to anyone in York, to discuss the future of the Barbican Community Centre (BCC), which was founded during the recent occupation of the the neglected land beside the York Barbican. It was clear over the course of the occupation that the local community strongly supports the Barbican site being used for the People of York, and that there is a significant need for such community-centred spaces. As a result, following the [violent eviction by Persimmon Homes](/news/press-release-eviction-protest/) of this site, there is a need to reflect and deliberate as a community on our next steps. Specifically, the questions this assembly will address are:
 
-We will be mixing up discussion, fun and an open mic for the afternoon. By the end we should have a plan for how the Barbican Community Centre will live on
+* What are the needs of the local community and how might the Barbican Community Centre serve them?
+* Should we fight to acquire the Barbican site from Persimmon Homes, and how should we go about doing that?
+* Should we attempt to find a new site, and if so what kind of site do we want and what options are available?
