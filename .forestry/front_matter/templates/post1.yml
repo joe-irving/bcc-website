@@ -1,0 +1,26 @@
+---
+label: Post1
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: summary
+  label: summary
+- type: field_group
+  name: map
+  label: map
+  fields:
+  - type: number
+    name: lat
+    label: lat
+  - type: number
+    name: lng
+    label: lng
+- type: file
+  name: image
+  label: image
