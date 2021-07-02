@@ -17,3 +17,5 @@ We are hosting a people's assembly, open to anyone in York, to discuss the futur
 * What are the needs of the local community and how might the Barbican Community Centre serve them?
 * Should we fight to acquire the Barbican site from Persimmon Homes, and how should we go about doing that?
 * Should we attempt to find a new site, and if so what kind of site do we want and what options are available?
+
+{% include map.html %}
