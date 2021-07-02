@@ -30,3 +30,5 @@ fields:
   config:
     maxSize: 64
   label: Image
+pages:
+- _posts/peoples-assembly-1pm-sat-3rd-june.md
