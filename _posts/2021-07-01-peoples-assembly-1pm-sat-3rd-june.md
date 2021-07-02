@@ -18,4 +18,6 @@ We are hosting a people's assembly, open to anyone in York, to discuss the futur
 * Should we fight to acquire the Barbican site from Persimmon Homes, and how should we go about doing that?
 * Should we attempt to find a new site, and if so what kind of site do we want and what options are available?
 
+We will do our best to adapt to the weather (a bit rainy) and make it fun, family friendly and with lots of opportunities to talk and speak in a less structured fashion. Even if you can only turn up for a bit it would be amazing to have you there.
+
 {% include map.html %}
