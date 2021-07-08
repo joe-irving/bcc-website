@@ -37,5 +37,4 @@ blocks:
   heading_background: false
   text: ''
   buttons: []
-
 ---
