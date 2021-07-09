@@ -37,4 +37,20 @@ blocks:
   heading_background: false
   text: ''
   buttons: []
+- template: block
+  type: image
+  half: true
+  image: "/uploads/fireplace.jpg"
+  heading: ''
+  heading_background: false
+  buttons:
+  - text: Subscribe
+    target: https://lists.riseup.net/www/subscribe/barbicancommunitycentre
+  text: |-
+    # Mailing list
+
+    Subscribe to get updates straight to your inbox and join in the (moderated) discussion.
+
+    Treat all emails as publicly available, because they are!
+
 ---

@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
-top_image: /uploads/fireplace.jpg
+permalink: "/about/"
+top_image: "/uploads/fireplace.jpg"
+
 ---
 # About
 
@@ -23,7 +24,11 @@ Sadly, just 7 days after our clean up and rebuild started,
 [Persimmon Homes](https://www.persimmonhomes.com/) violently and illegally
 evicted us. This is not the end, we will fight this and we will not go silent.
 
-Join us on Saturday 26th June for a
-[protest against this eviction](/news/protest-the-eviction/).
+Despite being a short project, this has brought together a community in York - which will always be stronger than any eviction team. 
 
-**[See how you can help out](/help)**
+Things you can do now:
+
+* [Join the mailing list](https://lists.riseup.net/www/subscribe/barbicancommunitycentre)
+* [Sign the petition](http://chng.it/DD6GPNVCHb)
+
+And make sure you come along to any people's assemblies, events, gigs and everything else when we run it. And if you have anything you want to run, just ask the mailing list!

@@ -1,15 +1,12 @@
 ---
 layout: page
 title: Help out
-top_image: /uploads/citzens-of-earth.jpg
+top_image: "/uploads/citzens-of-earth.jpg"
+
 ---
 # Help us
 
-## Things we need
-
-Right now, we need to show Persimmon Homes that the people of York do not want
-them to sit on the land holding it hostage from the people of York. [Join us
-in protest](/news/protest-the-eviction/) over the illegal and violent eviction.
+## Join in
 
 ## Find us
 
