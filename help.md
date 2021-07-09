@@ -8,9 +8,15 @@ top_image: "/uploads/citzens-of-earth.jpg"
 
 ## Join in
 
+Things you can do now:
+
+* [Join the mailing list](https://lists.riseup.net/www/subscribe/barbicancommunitycentre)
+* [Sign the petition](http://chng.it/DD6GPNVCHb)
+
+If you have any ideas or things you want to run please get in contact through the mailing list
+
 ## Find us
 
-You can find us just of Kent Street (opposite the bus stop). Feel free to
-pop in when you have the time! This is a space for all people of York.
+You can find us just outside the StayCity and Co-op entrance
 
 {% include map.html %}
