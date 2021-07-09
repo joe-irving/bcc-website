@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decide the future of the Barbican Community Centre. Tuesday 6pm
-summary: 'People''s Assembly: Tues 13th March 6pm'
+summary: 'People''s Assembly: Tues 13th July 6pm'
 map:
   lat: 53.9566302
   lng: -1.0772837
