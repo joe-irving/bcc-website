@@ -49,6 +49,8 @@ blocks:
   text: |-
     # Mailing list
 
-    Subscribe to get updates straight to your inbox and join in the (moderated) discussion
+    Subscribe to get updates straight to your inbox and join in the (moderated) discussion.
+
+    Treat all emails as publicly available, because they are!
 
 ---
