@@ -3,8 +3,8 @@ layout: post
 title: 'People''s Assembly: Tues 13th March 6pm'
 summary: ''
 map:
-  lat: 53.9569789
-  lng: -1.0778557
+  lat: 53.9566302
+  lng: -1.0772837
 image: "/uploads/social-post-01.jpg"
 
 ---
