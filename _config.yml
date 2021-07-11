@@ -10,7 +10,7 @@ github_username: jekyll
 theme: jekyll-rebellion
 permalink: pretty
 donate: https://www.gofundme.com/f/barbican-community-centre
-logo: "/uploads/bcc-logo.svg"
+logo: "/uploads/bcc-logo.png"
 logo_light: "/uploads/bcc-logo-light.svg"
 logo_square: "/uploads/logo-square.png"
 brand_color: "#fff035"
