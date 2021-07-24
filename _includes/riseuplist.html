@@ -1,7 +1,8 @@
-<form class=" Rebellion-Form bold_label" action="https://lists.riseup.net/www" method="post">
+{% assign listname = page.riseup_listname | default: site.riseup_listname %}
+<form class=" Rebellion-Form bold_label" action="https://lists.riseup.net/www" method="GET">
   <label for="email">Your e-mail address</label>
-  <input type="text" name="email" size="30"><br>
-  <input type="hidden" name="list" value="barbicancommunitycentre">
+  <input type="text" name="email" size="30" required><br>
+  <input type="hidden" name="list" value="{{listname}}">
   <input type="hidden" name="action" value="subrequest">
   <input type="hidden" name="via_subrequest" value="1">
   <input class="Rebellion-Button" type="submit" name="action_subrequest" value="submit">

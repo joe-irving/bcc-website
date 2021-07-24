@@ -24,7 +24,7 @@ Sadly, just 7 days after our clean up and rebuild started,
 [Persimmon Homes](https://www.persimmonhomes.com/) violently and illegally
 evicted us. This is not the end, we will fight this and we will not go silent.
 
-Despite being a short project, this has brought together a community in York - which will always be stronger than any eviction team. 
+Despite being a short project, this has brought together a community in York - which will always be stronger than any eviction team.
 
 Things you can do now:
 
