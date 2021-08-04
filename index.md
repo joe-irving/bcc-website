@@ -1,15 +1,29 @@
 ---
 layout: home
-top_image: "/uploads/Squat post-eviction.jpg"
-image: "/uploads/barbican-comunity-center.jpeg"
+top_image: "/uploads/fibbers-books.jpeg"
+image: "/uploads/Fibbers front w Banner.jpg"
 jump:
   target: about
   text: Find out more
 blocks:
+- type: text
+  text: |-
+    # About
+
+    {{ site.description }}
+  buttons:
+  - target: "/about"
+    text: Read more
+- type: image
+  image: "/uploads/fibbersbanner.png"
+  text: |-
+    # New site!
+
+    We are currently located at 3-5 Toft Green
+    (location of the old night club Fibbers)
 - template: block
   type: image
-  half: true
-  image: "/uploads/barbican-comunity-center.jpeg"
+  image: "/uploads/citzens-of-earth.jpg"
   text: |-
     # Petition
 
@@ -20,18 +34,7 @@ blocks:
   heading: ''
   heading_background: false
 - template: block
-  type: heading
-  half: true
-  heading: About
-  heading_background: false
-  text: "{{ site.description }}"
-  buttons:
-  - target: "/about"
-    text: Read more
-  image: ''
-- template: block
   type: map
-  half: false
   image: ''
   heading: ''
   heading_background: false
