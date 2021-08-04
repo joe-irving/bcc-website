@@ -4,12 +4,52 @@ title: About
 permalink: "/about/"
 top_image: "/uploads/fibbers-books.jpeg"
 top_quote: We believe that everybody has a right to shelter and community, and our mission is to help meet these needs for the People of York
+# Timeline:
 blocks:
 - type: image
+  heading: 17th June 2021
+  text: |-
+    # Occupation!
+
+    The Barbican site is occupied: litter pick and building begins.
+- type: image
+  heading: 25th June 2021
+  text: |-
+    # Eviction
+
+    Barbican site is evicted, violently and most likely illegally.
+  buttons:
+    - text: Read more
+      target: /news/first-week/
+- type: image
+  heading: 26th June 2021
+  text: |-
+    # Protest
+
+    A mass protest is staged outside of the now heavily guarded patch of disused
+    land. It lasts over 10 hours.
+  buttons:
+    - text: Read more
+      target: /news/press-release-eviction-protest/
+- type: image
+  heading: 13th July 2021
+  text: |-
+    # People's assembly
+
+    A people's assembly is held to work out what we are going to do next.
+  buttons:
+    - text: Read more
+      target: /news/people-s-assembly-tues-13th-july-6pm/
+- type: image
   heading: 22nd July 2021
-  text: Moved in to 3 to 5 Toft Green, the old site of Fibbers
+  text: |-
+    # New occupation!
+
+    Moved in to 3 to 5 Toft Green, the old site of Fibbers.
 
 blocks_after: true
+
+
 ---
 We the Barbican Community Centre are a non-hierarchical group of individuals that share a vision of self-organised, community-led spaces in the city of York. We believe that everybody has a right to shelter and community, and our mission is to help meet these needs for the People of York and place pressure on decision-makers and businesses to faciliate this.
 
