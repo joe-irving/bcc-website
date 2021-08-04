@@ -5,8 +5,9 @@ permalink: "/about/"
 top_image: "/uploads/fibbers-books.jpeg"
 top_quote: We believe that everybody has a right to shelter and community, and our mission is to help meet these needs for the People of York
 blocks:
-- type: text
-  text: fdhofhewifhsfoiehfo
+- type: image
+  heading: 22nd July 2021
+  text: Moved in to 3 to 5 Toft Green, the old site of Fibbers
 
 blocks_after: true
 ---
@@ -42,3 +43,5 @@ Things you can do right now:
 We need your help! If it takes a village to raise a baby, it takes a city to create a community centre. If you have time, skills, stuff, money or ideas to offer us to help us realise our vision, please get in touch and come down!
 
 Anybody is welcome at the Fibbers site during daylight hours (but doors close after dark). Feel free to email us at [do we need a generic contact@barbican.earth for this?] or direct message us on [Instagram](https://www.instagram.com/barbican_community_centre/) to let us know you're coming down, or just turn up and ring the doorbell!
+
+# Timeline
