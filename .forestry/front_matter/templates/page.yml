@@ -5,12 +5,17 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: page
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: permalink
   label: permalink
 - type: file
   name: top_image
   label: top_image
+- name: main_nav_exclude
+  type: boolean
+  label: Main Nav Exclude
