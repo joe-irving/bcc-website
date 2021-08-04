@@ -4,6 +4,11 @@ title: About
 permalink: "/about/"
 top_image: "/uploads/fibbers-books.jpeg"
 top_quote: We believe that everybody has a right to shelter and community, and our mission is to help meet these needs for the People of York
+blocks:
+- type: text
+  text: fdhofhewifhsfoiehfo
+
+blocks_after: true
 ---
 We the Barbican Community Centre are a non-hierarchical group of individuals that share a vision of self-organised, community-led spaces in the city of York. We believe that everybody has a right to shelter and community, and our mission is to help meet these needs for the People of York and place pressure on decision-makers and businesses to faciliate this.
 
@@ -13,30 +18,27 @@ As such, our group began with the occupation of the unused land beside the York 
 
 Since 22 July we have been occupying, without permission, the former Fibbers music venue, 3-5 Toft Green, and are in the process of turning it into a pay-as-you-feel cafe, radical library, events space and music venue.
 
-## About the Barbican site
+## The Story So Far
 
-In 2007, after [a long fight](https://web.archive.org/web/20120208103108/http://saveourbarbicanyork.org.uk/pages/sob_york_campaign_history.htm),
-the Barbican Swimming Pool was demolished. For 15 years this land has remained
-empty while rich property developers sit on it just waiting for the price to go
-up.
+The group was founded out of a spontaneous occupation of the York Barbican site, a patch of unused land just outside the city walls of York. In 2007, on this site and [after a long fight](https://web.archive.org/web/20120208103108/http://saveourbarbicanyork.org.uk/pages/sob_york_campaign_history.htm), the Barbican Swimming Pool was demolished. For 15 years this land has remained empty while rich property developers sit on it just waiting for the price to go up. This is a typical stage of landbanking , a practice whereby developers wait for the value of unused land to increase before selling it for huge profit. (Mention landbanking?). ​​​​​​​
 
-> We don't think that is right.
+On 19 June 2021 a group of us set about cleaning up the site and making it a space for the community again. It was a chance for us all to build something amazing, and right the wrong of a rich developer - [Persimmon Homes Ltd](https://www.persimmonhomes.com/) - depriving people of land for the sake of their profit. Sadly, just 7 days after our clean up and rebuild started, Persimmon decided to [violently and illegally
+evict us](https://barbican.earth/news/an-open-letter-to-persimmon-homes-ltd/).
 
-That is why on 19th June 2021 a group of us set about cleaning up the site and making
-it a space for the community again. If the council won't then we have to
-take matters into our own hands!
+Despite being a short project, this occupation brought together a diverse range of people in York, all of whom saw the value of what we were doing and agreed that it is wrong for land to be left empty and unused because it makes money for developers. Our activities didn't end with this eviction either. The day after, on 26 June, we held a protest and musical open mic on the square outside the site beside StayCity to show our presence and defiance. On 13 July, we hosted a people's assembly at [Spark](https://www.sparkyork.org/) to invite all to have their say on the next steps of the BCC.
 
-Now is the chance for us **all** to build something amazing.
+On 22 July, 27 days after being evicted from the Barbican site, the next stage in the story of the BCC began when we entered and secured the former Fibbers music venue at 3-5 Toft Green. This venue is a cultural icon in the city of York, and has a long history of hosting world famous bands and artists. In early 2020, after the site had been acquired by the developers [North Star](https://northstarim.com) the previous year, the venue shut its doors so that the site could be redeveloped into offices. A year and a half later, the site remains empty and the planning permission is still pending. We believe that the city of York needs community spaces and music venues more than it needs more office space, especially given the move to home-working spurred by the pandemic. As such, we are occupying the building and are in the process of turning it into a pay-as-you-feel cafe, radical library, events space and music venue.
 
-Sadly, just 7 days after our clean up and rebuild started,
-[Persimmon Homes](https://www.persimmonhomes.com/) violently and illegally
-evicted us. This is not the end, we will fight this and we will not go silent.
+Get Involved!
 
-Despite being a short project, this has brought together a community in York - which will always be stronger than any eviction team.
-
-## Things you can do now
+Things you can do right now:
 
 * [Join the mailing list](https://lists.riseup.net/www/subscribe/barbicancommunitycentre)
-* [Sign the petition](http://chng.it/DD6GPNVCHb)
+* [Donate](https://www.gofundme.com/f/barbican-community-centre)
+* [Sign the petition to get back the Barbican site](http://chng.it/DD6GPNVCHb)
+* Help out getting stuff on our [shopping list](/help)
 
-And make sure you come along to any people's assemblies, events, gigs and everything else when we run it. And if you have anything you want to run, just ask the mailing list!
+
+We need your help! If it takes a village to raise a baby, it takes a city to create a community centre. If you have time, skills, stuff, money or ideas to offer us to help us realise our vision, please get in touch and come down!
+
+Anybody is welcome at the Fibbers site during daylight hours (but doors close after dark). Feel free to email us at [do we need a generic contact@barbican.earth for this?] or direct message us on [Instagram](https://www.instagram.com/barbican_community_centre/) to let us know you're coming down, or just turn up and ring the doorbell!
