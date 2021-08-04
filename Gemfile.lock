@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/joe-irving/jekyll-rebellion.git
-  revision: 4012d035a47cdc1b90877732a30ac767ae054f4d
+  revision: 734f53c7d16e7b418bd220994be9f14953ae0f78
   specs:
     jekyll-rebellion (0.3.0)
       jekyll (~> 4.0)
