@@ -21,6 +21,9 @@ blocks:
 
     We are currently located at 3-5 Toft Green
     (location of the old night club Fibbers)
+  buttons:
+    - text: Read more
+      target: /fibbers
 - template: block
   type: image
   image: "/uploads/citzens-of-earth.jpg"
